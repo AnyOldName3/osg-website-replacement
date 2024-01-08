@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/feed.xml" rel="self" type="application/atom+xml" /><link href="https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/" rel="alternate" type="text/html" /><updated>2024-01-08T18:28:39+00:00</updated><id>https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/feed.xml</id><title type="html">OpenSceneGraph</title><subtitle>The OpenSceneGraph is an open source high performance 3D graphics toolkit, used by application developers in fields such as visual simulation, games, virtual reality, scientific visualization and modelling. Written entirely in Standard C++ and OpenGL, it runs on all Windows platforms, OSX, GNU/Linux, IRIX, Solaris, HP-Ux, AIX and FreeBSD operating systems. The OpenSceneGraph is now well established as a robust scene graph technology, used widely in the vis-sim, space, scientific, oil-gas, games and virtual reality industries. However, for new projects, we recommend the OSG's successor project, &lt;a href=&quot;https://vsg-dev.github.io/vsg-dev.io/&quot;&gt;VulkanSceneGraph&lt;/a&gt; for never-before-attainable performance and access to the latest hardware features with the same battle-tested DNA as the OSG.</subtitle><entry><title type="html">OpenMW</title><link href="https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/gallery/2023/12/22/openmw.html" rel="alternate" type="text/html" title="OpenMW" /><published>2023-12-22T00:00:00+00:00</published><updated>2023-12-22T00:00:00+00:00</updated><id>https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/gallery/2023/12/22/openmw</id><content type="html" xml:base="https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/gallery/2023/12/22/openmw.html">&lt;p&gt;OpenMW is a Free and Open Source reimplementation of the engine of the hit 2002 role playing game &lt;em&gt;The Elder Scrolls III: Morrowind&lt;/em&gt;.
+As well as aiming to support all features of the original engine (and eventually all its successors), OpenMW boasts a range of graphical improvements, including more modern shader effects, massive viewing distances, improved shadows and lighting, and a flexible post processing framework.&lt;/p&gt;
+
+&lt;p&gt;The project’s website is &lt;a href=&quot;https://openmw.org/&quot;&gt;openmw.org&lt;/a&gt;, and development happens on &lt;a href=&quot;https://gitlab.com/OpenMW/openmw&quot;&gt;GitLab&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A third-party project to port OpenMW to the VulkanSceneGraph is underway &lt;a href=&quot;https://github.com/vsgopenmw-dev/vsgopenmw&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul class=&quot;image-album&quot;&gt;
+    
+&lt;/ul&gt;</content><author><name></name></author><category term="gallery" /><summary type="html">OpenMW is a Free and Open Source reimplementation of the engine of the hit 2002 role playing game The Elder Scrolls III: Morrowind. As well as aiming to support all features of the original engine (and eventually all its successors), OpenMW boasts a range of graphical improvements, including more modern shader effects, massive viewing distances, improved shadows and lighting, and a flexible post processing framework.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/jekyll/update/2023/12/01/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-12-01T15:21:41+00:00</published><updated>2023-12-01T15:21:41+00:00</updated><id>https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/jekyll/update/2023/12/01/welcome-to-jekyll</id><content type="html" xml:base="https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/jekyll/update/2023/12/01/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">ObjexxSISAME</title><link href="https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/archive/gallery/use-cases/209-objexxsisame.html" rel="alternate" type="text/html" title="ObjexxSISAME" /><published>2016-06-18T00:00:00+00:00</published><updated>2016-06-18T00:00:00+00:00</updated><id>https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/archive/gallery/use-cases/209-objexxsisame</id><content type="html" xml:base="https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/archive/gallery/use-cases/209-objexxsisame.html">&lt;p&gt;ObjexxSISAME is a structural modeling tool developed by &lt;a href=&quot;http://objexx.com&quot;&gt;Objexx Engineering&lt;/a&gt; that is focused on large-deformation and impact events. Originally developed for vehicle (car and truck) crash modeling it now supports a wide range of structures such as bridges and buildings and non-impact events such as earthquakes. A unique aspect of ObjexxSISAME is that it performs both forward (simulation) modeling and inverse modeling, where the optimal structure to achieve a specified behavior is found. The inverse modeling formulation avoids inefficient global search methods by using a direct constrained quadratic solver core.&lt;/p&gt;
+
+&lt;p&gt;ObjexxSISAME uses OpenSceneGraph for real-time visualization, both during model construction and simulation. During inverse (design) modeling runs a semi-transparent view of the target motion is displayed along with the optimal design motion. The OSG view is integrated into a Qt GUI and can also be displayed in a stand-alone window in a non-GUI run mode. OpenSceneGraph was chosen for the visual quality and performance it provides and for the thriving and helpful OSG community.&lt;/p&gt;
+
+&lt;p&gt;ObjexxSISAME runs on Windows, Linux, and macOS. Objexx builds OSG on Windows with the latest Visual C++ and Intel C++ and Qt releases and makes these binaries available to the OpenSceneGraph community at &lt;a href=&quot;http://objexx.com/OpenSceneGraph.html&quot;&gt;http://objexx.com/OpenSceneGraph.html&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For more information visit &lt;a href=&quot;http://objexx.com/ObjexxSISAME.html&quot;&gt;http://objexx.com/ObjexxSISAME.html&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/gallery/Screenshots/ObjexxSISAME.Building.png&quot; alt=&quot;ObjexxSISAME Building Impact Model&quot; title=&quot;ObjexxSISAME Building Impact Model&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/gallery/Screenshots/ObjexxSISAME.Bridge.png&quot; alt=&quot;ObjexxSISAME Bridge Impact Model&quot; title=&quot;ObjexxSISAME Bridge Impact Model&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/gallery/Screenshots/ObjexxSISAME.Car.png&quot; alt=&quot;ObjexxSISAME Car Crash Model&quot; title=&quot;ObjexxSISAME Car Crash Model&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="archive" /><category term="gallery" /><category term="use-cases" /><summary type="html">ObjexxSISAME is a structural modeling tool developed by Objexx Engineering that is focused on large-deformation and impact events. Originally developed for vehicle (car and truck) crash modeling it now supports a wide range of structures such as bridges and buildings and non-impact events such as earthquakes. A unique aspect of ObjexxSISAME is that it performs both forward (simulation) modeling and inverse modeling, where the optimal structure to achieve a specified behavior is found. The inverse modeling formulation avoids inefficient global search methods by using a direct constrained quadratic solver core.</summary></entry><entry><title type="html">FM Profil</title><link href="https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/archive/gallery/use-cases/189-fm-profil.html" rel="alternate" type="text/html" title="FM Profil" /><published>2015-07-20T00:00:00+00:00</published><updated>2015-07-20T00:00:00+00:00</updated><id>https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/archive/gallery/use-cases/189-fm-profil</id><content type="html" xml:base="https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/archive/gallery/use-cases/189-fm-profil.html">&lt;p&gt;&lt;strong&gt;FM&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;PROFIL&lt;/em&gt;&lt;/strong&gt; is a graphic and calculation program for the creation of overhead line and cable sections.The length profiles are generated on the basis of measurement data from the terrestrial survey or aerial survey.  From the profile data 2D and OSG-based 3D graphics is generated.&lt;/p&gt;
+
+&lt;p&gt;Get more information from our website &lt;a href=&quot;http://www.freileitungsmanagement.de/88.0.html&quot;&gt;www.freileitungsmanagement.de&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h3 id=&quot;3d-view-with-sky&quot;&gt;3D View with Sky&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/gallery/Screenshots/fmprofil/3d-ansicht.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h3 id=&quot;3d-view-with-ortho-photo&quot;&gt;3D View with ortho photo&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/gallery/Screenshots/fmprofil/3d-orthophoto.png&quot; alt=&quot;3d view with orthophoto&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h3 id=&quot;3d-view-with-laser-scanning-data&quot;&gt;3D View with laser scanning data&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/gallery/Screenshots/fmprofil/3d-laserscan.png&quot; alt=&quot;3d view with laserscan data&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;2d-and-3d-view&quot;&gt;2D and 3D View&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/gallery/Screenshots/fmprofil/2D-3D.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="archive" /><category term="gallery" /><category term="use-cases" /><summary type="html">FM PROFIL is a graphic and calculation program for the creation of overhead line and cable sections.The length profiles are generated on the basis of measurement data from the terrestrial survey or aerial survey.  From the profile data 2D and OSG-based 3D graphics is generated. Get more information from our website www.freileitungsmanagement.de</summary></entry><entry><title type="html">Interactive game on Tencent Game Carnival (TGC) 2014</title><link href="https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/archive/gallery/use-cases/170-interactive-game-on-tencent-game-carnival-tgc-2014.html" rel="alternate" type="text/html" title="Interactive game on Tencent Game Carnival (TGC) 2014" /><published>2014-12-11T00:00:00+00:00</published><updated>2014-12-11T00:00:00+00:00</updated><id>https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/archive/gallery/use-cases/170-interactive-game-on-tencent-game-carnival-tgc-2014</id><content type="html" xml:base="https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/archive/gallery/use-cases/170-interactive-game-on-tencent-game-carnival-tgc-2014.html">&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;Interactive game on Tencent Game Carnival (TGC) 2014. Attenders wave a real property sword and thus drive the virtual player to fight with the evil dragon. Scenery is provided by the Monster Hunter team of Tencent/Capcom. And all rendering work (lighting, ambient occlusion, character skinning and realtime shadows) and game system honored by OpenSceneGraph. :-)&lt;/p&gt;
+
+&lt;p&gt;You will find difference between the original model and rendered one as below:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/compare1.jpg&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/compare2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And more game pictures here:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/game1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/game2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/game3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/game4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/live.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Enjoy~~&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/stats.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;</content><author><name></name></author><category term="archive" /><category term="gallery" /><category term="use-cases" /><summary type="html"> </summary></entry><entry><title type="html">Remo 3D</title><link href="https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/archive/gallery/use-cases/152-remo-3d.html" rel="alternate" type="text/html" title="Remo 3D" /><published>2014-01-07T00:00:00+00:00</published><updated>2014-01-07T00:00:00+00:00</updated><id>https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/archive/gallery/use-cases/152-remo-3d</id><content type="html" xml:base="https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/archive/gallery/use-cases/152-remo-3d.html">&lt;p&gt;Remo 3D™ is an effective tool for creating and modifying 3D models intended for realtime visualization. Remo 3D’s primary file format is OpenFlight® and it allows for importing from and exporting to different file formats. Remo 3D is developed by Swedish company Remograph and was one of the first commercial products based on OpenSceneGraph. It first reached market back in 2005 and the latest version is 2.4, released in January 2014. Find out more about Remo 3D on our website: &lt;a href=&quot;http://www.remograph.com/&quot;&gt;http://www.remograph.com/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.remograph.com/remo3d_screenshot14.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="archive" /><category term="gallery" /><category term="use-cases" /><summary type="html">Remo 3D™ is an effective tool for creating and modifying 3D models intended for realtime visualization. Remo 3D’s primary file format is OpenFlight® and it allows for importing from and exporting to different file formats. Remo 3D is developed by Swedish company Remograph and was one of the first commercial products based on OpenSceneGraph. It first reached market back in 2005 and the latest version is 2.4, released in January 2014. Find out more about Remo 3D on our website: http://www.remograph.com/.</summary></entry><entry><title type="html">Digital city &amp;amp; traffic of Xining</title><link href="https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/archive/gallery/use-cases/126-digital-city-traffic-of-xining.html" rel="alternate" type="text/html" title="Digital city &amp;amp; traffic of Xining" /><published>2013-03-29T00:00:00+00:00</published><updated>2013-03-29T00:00:00+00:00</updated><id>https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/archive/gallery/use-cases/126-digital-city-traffic-of-xining</id><content type="html" xml:base="https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/archive/gallery/use-cases/126-digital-city-traffic-of-xining.html">&lt;p&gt;Rendered with VDSM &amp;amp; EffectCompositor. It shows the entire city of Xining, China P. R., as well as the dynamic traffic data.&lt;/p&gt;
+
+&lt;p&gt;The final city models size is ~23GB, designed with four-level paged LODs. It includes 215 main blocks of the Xining city, about 200 km2.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/xining_0.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/xining_1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/xining_2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/xining_3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/xining_4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/xining_5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/xining_6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/xining_7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/xining_8.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="archive" /><category term="gallery" /><category term="use-cases" /><summary type="html">Rendered with VDSM &amp;amp; EffectCompositor. It shows the entire city of Xining, China P. R., as well as the dynamic traffic data.</summary></entry><entry><title type="html">Digital city of Beijing</title><link href="https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/archive/gallery/use-cases/76-digital-city-of-beijing-with-real-time-illumination.html" rel="alternate" type="text/html" title="Digital city of Beijing" /><published>2012-11-14T00:00:00+00:00</published><updated>2012-11-14T00:00:00+00:00</updated><id>https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/archive/gallery/use-cases/76-digital-city-of-beijing-with-real-time-illumination</id><content type="html" xml:base="https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/archive/gallery/use-cases/76-digital-city-of-beijing-with-real-time-illumination.html">&lt;p&gt;Rendered with VDSM &amp;amp; EffectCompositor. SilverLining is also used for drawing sky and cloud.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.github.com/wiki/xarray/osgRecipes/images/cityeffect2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.github.com/wiki/xarray/osgRecipes/images/cityeffect3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.github.com/wiki/xarray/osgRecipes/images/cityeffect4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.github.com/wiki/xarray/osgRecipes/images/cityeffect5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.github.com/wiki/xarray/osgRecipes/images/cityeffect6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="archive" /><category term="gallery" /><category term="use-cases" /><summary type="html">Rendered with VDSM &amp;amp; EffectCompositor. SilverLining is also used for drawing sky and cloud.</summary></entry><entry><title type="html">gvSIG 3D</title><link href="https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/archive/gallery/use-cases/133-gvsig-3d.html" rel="alternate" type="text/html" title="gvSIG 3D" /><published>2012-10-21T00:00:00+00:00</published><updated>2012-10-21T00:00:00+00:00</updated><id>https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/archive/gallery/use-cases/133-gvsig-3d</id><content type="html" xml:base="https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/archive/gallery/use-cases/133-gvsig-3d.html">&lt;p&gt;gvSIG 3D is a extension for visualization and management of three-dimensional views in the GPL software gvSIG. It allows the creation of 3D Views, XYZ-projected as well as spherical (planetary). Local and remote data sources can be loaded as layers on it, and be displayed using most of the options available in 2D-gvSIG like transparency, labeling, legends, etc.&lt;/p&gt;
+
+&lt;p&gt;Features&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;3D object layer type.&lt;/li&gt;
+  &lt;li&gt;3D Point Clouds.&lt;/li&gt;
+  &lt;li&gt;3D navigation tools.&lt;/li&gt;
+  &lt;li&gt;Force north orientation.&lt;/li&gt;
+  &lt;li&gt;Zoom to layer or zoom All.&lt;/li&gt;
+  &lt;li&gt;Interactive layer transparency control.&lt;/li&gt;
+  &lt;li&gt;3D Advanced Symbology including 3D objects as a symbol.&lt;/li&gt;
+  &lt;li&gt;Support for Extrusion legend.&lt;/li&gt;
+  &lt;li&gt;Advanced visualization tools (Stereoscopy and FullScreen Option).&lt;/li&gt;
+  &lt;li&gt;3D model edition.&lt;/li&gt;
+  &lt;li&gt;cityGML models.&lt;/li&gt;
+  &lt;li&gt;Selection and Info by point support.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/gallery/Community/gvSIG3D/sierra_nevada.jpg&quot; alt=&quot;sierra_nevada.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/gallery/Community/gvSIG3D/Powerwall.png&quot; alt=&quot;Powerwall.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/gallery/Community/gvSIG3D/ermita.png&quot; alt=&quot;ermita.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/gallery/Community/gvSIG3D/catedral2.jpg&quot; alt=&quot;catedral2.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/gallery/Community/gvSIG3D/edicion.png&quot; alt=&quot;edicion.png&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="archive" /><category term="gallery" /><category term="use-cases" /><summary type="html">gvSIG 3D is a extension for visualization and management of three-dimensional views in the GPL software gvSIG. It allows the creation of 3D Views, XYZ-projected as well as spherical (planetary). Local and remote data sources can be loaded as layers on it, and be displayed using most of the options available in 2D-gvSIG like transparency, labeling, legends, etc.</summary></entry><entry><title type="html">RIEER</title><link href="https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/archive/gallery/use-cases/24-research-institute-of-electronic-educational-resources.html" rel="alternate" type="text/html" title="RIEER" /><published>2012-04-30T00:00:00+00:00</published><updated>2012-04-30T00:00:00+00:00</updated><id>https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/archive/gallery/use-cases/24-research-institute-of-electronic-educational-resources</id><content type="html" xml:base="https://openscenegraph.github.io/osg-website-replacement/osg-website-replacement/archive/gallery/use-cases/24-research-institute-of-electronic-educational-resources.html">&lt;p&gt;&lt;a href=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/undefined/index.html&quot;&gt;OpenSceneGraph&lt;/a&gt; technology is used to power the realtime graphics of all computer-base simulators.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/gallery/Screenshots/RI/med.png&quot; alt=&quot;med.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/gallery/Screenshots/RI/rieer2.png&quot; alt=&quot;rieer2.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/gallery/Screenshots/RI/rieer4.png&quot; alt=&quot;rieer4.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/gallery/Screenshots/RI/rieer6.png&quot; alt=&quot;rieer6.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/gallery/Screenshots/RI/rieer1.png&quot; alt=&quot;rieer1.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/gallery/Screenshots/RI/rieer7.jpg&quot; alt=&quot;rieer7.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openscenegraph.github.io/OpenSceneGraphDotComBackup/OpenSceneGraph/www.openscenegraph.com/images/gallery/Screenshots/RI/rieer3.png&quot; alt=&quot;rieer3.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;</content><author><name></name></author><category term="archive" /><category term="gallery" /><category term="use-cases" /><summary type="html">OpenSceneGraph technology is used to power the realtime graphics of all computer-base simulators.</summary></entry></feed>
